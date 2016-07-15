@@ -45,6 +45,7 @@ It was such a good experience I figured I'd try to bring Scrum to work.
 
 ## Our process
 Here's what we did:
+
 #### Create the vision document for the feature
  * Get management support
  * Consensus was that we were going to focus on this feature for the project
@@ -52,16 +53,19 @@ Here's what we did:
  ** 04/01/09 - demo at the Convention (6 months away)
  ** 05/01/09 - Enter code freeze - no new features (7 months away)
  * Reality acknowledged that smaller projects would appear in the course of the project
+ 
 #### Gather stories.
  * Interviewed 4 offices who wanted the feature
  * Gathered stakeholders in a room to review the vision document
  * Gathered stakeholders in a room to tell stories
+ 
 #### Talk about the stories
  * Make sure every story has a workflow
  * Story should have the form "as a (person) I want (to do something) so that (beneficial result)"
  * Keep the stories visible
  * hand out sticky pads and let everyone write
  * no more detail than fits on a sticky pad
+ 
 #### Size the stories
  * Here's an [article on estimating relative sizes](http://epf.eclipse.org/wikis/openup/core.mgmt.common.extend_supp/guidances/guidelines/agile_estimation_A4EF42B3.html)
  * Similar to prioritization.
@@ -72,6 +76,7 @@ Here's what we did:
  * The stories in the middle are medium, and lower down are large and x-large
  * The stories above the medium are small and x-small
  * assign points: x-small = 1, small = 2, medium = 4, large = 8, x-large = 16
+ 
 #### Prioritize stories
  * Get a big room
  * Put a story on the wall, then ask people whether the next story is more or less important. This is an Insertion sort
@@ -81,14 +86,17 @@ Here's what we did:
  ** Technical costs
  * Position the stories horizontally, and no story should overlap with another
  * When you're all done review the order, performing a bubble sort if you want to change priorities
+ 
 #### Agree on first, second and third release milestones
  * What's the minimal functionality that can be released into the wild?
  * What's the next level after that?
  * These are critical milestones, but should tie in with business value
  * at this point you might consider cutting XL stories that are low priority
+ 
 #### Develop a burndown chart based on sizes
  * put all the stories into a spreadsheet, on a tab called Stories
  * We didn't ever actually do the burndown chart...
+ 
 #### Work on the #1 priority story for 2 weeks (sprint)
  * Sprint Planning - what are we working on, and how?
  ** The goal is to deliver value to the customer at the end of each sprint.
@@ -106,18 +114,25 @@ Here's what we did:
  * Fix bugs
  * Add small enhancements
  * Document
+ 
 #### Functional review with everyone that's interested
  * Review resolutions from last time
  * Present the stories
  * Discuss functionality
+ 
 #### Process review with everyone that's involved
  * What was good about the process so far?
  * What could be improved?
  * What are we going to try to improve for the next two weeks?
+ 
 #### Track bugs from previous sprints
+
 #### Add enhancements from previous sprints as new stories
+
 #### When we got to release criteria #1, release to actual beta site
+
 #### Release criteria #2, give to 2nd beta site
+
 #### Repeat sprints until we complete all stories, or we reach code freeze date
 
 ### Comments on the process
@@ -163,6 +178,7 @@ Here's what we did:
 
 ## Further links
 * [Excellent Scrum Cheat Sheet](http://www.scribd.com/doc/2370861/Scrum-Cheat-Sheet)
+* [PNSQC Presentation on 9 Low-tech tips for Project Management](http://mxmossman.blogspot.com/2013/11/9-low-tech-tips-for-agile-project.html)
 * [Scrum Methodology - learn scrum](http://scrummethodology.com/)
 * [Why do scrum? 10 good reasons for Scrum](http://www.agile42.com/cms/blog/2009/06/16/10-good-reasons-scrum/)
 * [Tips on managing the product backup](http://www.agilejournal.com/articles/columns/column-articles/1741-product-backlog-rules-of-thumb)
