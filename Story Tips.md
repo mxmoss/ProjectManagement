@@ -13,8 +13,7 @@ Independent?
 - Explicit dependencies are OK
 
 Negotiable?
-- Avoid bundling - VHS, DVD, Blu-Ray and HD DVD
-- 
+- Avoid bundling - eg: VHS, DVD, Blu-Ray and HD DVD
 
 Valuable?
 - If it's not valuable, then don't do it.
