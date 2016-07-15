@@ -1,0 +1,52 @@
+Thoughts on Feedback Loops
+Because the cost of errors increases exponentially as you go downstream, we want to find issues as soon as possible.
+This means keeping the feedback loops as tight as possible.
+
+Feedback loops
+- Changes within the sprint (daily)
+ = Try to test changes as soon as they are in a build
+  + Automated smoke test
+  + Targeted ad hoc testing
+  + Automated regression test
+
+ = Compile a list of issues
+  + The descriptions don't need to be detailed because you'll deliver it in person
+  + Don't stop when you find a stopping issue. Keep going, there are probably other things you haven't found
+  + Get screen shots to help you remember the state of the issue
+
+ = Review the list 2x/day in person - 
+  + Talk w/the person who's working on the feature
+  + If you don't know who's on it, then talk to me (Scrum master)
+  + Try to schedule the review so it's convenient: just after scrum, or just after lunch, or 3pm break time.
+
+ = Type up the more detailed issues & email
+  + Who, what, why, where, when, how, how much
+  + Screen shots
+  + Special data requirements
+  + Create a sticky note for visibility
+
+- Changes within a release (weekly)
+ = You find an issue with code that was changed prior to the current sprint
+ = Consider whether this is a stopping issue or not
+ = If it's stopping, then raise it during the day (during the 2x/review)
+  + Focus is on fixing stopping issues as soon as convenient
+ = If it's not a stopping issue then put it in tracker
+  + Create a sticky note for visibility
+ = Issue will be reviewed during bug scrub, or during sprint planning
+
+- Changes between a release (3 months or more)
+ = Office reports an issue
+ = Put into tracker for review
+   + "bugs" will likely be fixed for the next release
+   + Enhancements will be prioritized per release by the product steering team
+
+- Ad hoc fixes
+ = Data or report related fixes may be patchable
+ = Changes to executable will require waiting for the next version
+ = We are not going to release a "fix" to an office without the usual test cycle:
+  + Report
+  + Verify
+  + Develop a solution
+  + Implement solution
+  + Test solution
+  + Review
