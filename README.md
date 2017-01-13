@@ -15,4 +15,4 @@ Templates for project management
 
 
 * What's required to cut the timeline in 1/2?
-* What need to be done to double the impact?
+* What needs to be done to double the impact?
